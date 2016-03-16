@@ -44,7 +44,10 @@ Exemplo _"Hello World"_ mostrando a utilização de indexadores:
 
 Após diversas pesquisas sobre esta linguagem de programação, chegamos a conclusão de que ela é uma excelente linguagem de propósito geral, usada somente na plataforma Microsoft e que é capaz de desenvolver desde pequenos e simples programas até softwares robustos como alguns tipos de jogos.
 
-Fonte: http://csharpbrasil.com.br/
+
+Fonte: 
+
+http://csharpbrasil.com.br/
 
 https://msdn.microsoft.com
 
