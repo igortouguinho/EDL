@@ -42,7 +42,7 @@ function love.update(dt)
 
     if not paused then
         -- Nome: "if"
-        -- Propriedade: Estrutura condicional
+        -- Propriedade: semântica
         -- Binding time: design da linguagem
         -- Explicação: a função de "if" foi definida como uma condição
         -- para a execução do bloco no momento em que a linguagem foi criada.
@@ -78,7 +78,7 @@ function love.update(dt)
  
             for i,v in ipairs (listaDeCirculos) do
                 -- Nome: Palavra reservada "do"
-                -- Propriedade: Estrutura de controle
+                -- Propriedade: semântica
                 -- Binding time: design da linguagem
                 -- Explicação: A palavra reservada "do" teve sua função de iniciar um bloco de loop
                 -- quando a linguagem foi criada.
