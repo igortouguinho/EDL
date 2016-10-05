@@ -11,12 +11,12 @@ function love.load()
     jogador2_x = 700
     jogador2_y = 500
     listaDeCirculos = {}
-		-- Coleção dinâmica de objetos
-		-- Escopo: Global
-		-- Tempo de vida: Esta coleção tem seu tempo de vida em toda a execução do programa.
-		-- Alocação/Desalocação: É alocado dinâmicamente no início do programa sem tamanho fixo e,
-		-- 						 portanto, tem tamanho ilimitado. Sua desalocação ocorre no fim da
-		--						 execução do programa.
+	--[[ 
+	listaDeCirculos é uma coleção dinâmica de objetos declarada globalmente e alocada de forma
+	dinâmica no início do programa sem nenhum tamanho fixo e, por isso tem tamanho ilimitado.
+	É executado desde sua declaração até o final do programa, onde é desalocado antes do encerramento
+	da execução do mesmo.
+	]]
 		
     teveColisao = false
     i=0
