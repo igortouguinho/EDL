@@ -1,3 +1,6 @@
+-- TRABALHO EM DUPLA 
+-- IGOR TOUGUINHÓ E HENRIQUE MAIANI
+
 function love.load()
     timer = 0
     timer2 = 0.6
